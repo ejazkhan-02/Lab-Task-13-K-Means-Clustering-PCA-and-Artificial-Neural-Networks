@@ -4,4 +4,4 @@ This lab explores unsupervised and supervised machine learning techniques. K-Mea
 
 The lab includes case studies related to customer segmentation, genomic data compression, handwritten digit recognition, airline dynamic pricing, Parkinson’s disease diagnosis, credit card fraud detection, retail trend mapping, and smart manufacturing quality control. These examples show how clustering, PCA, and ANN models can solve practical data analysis and prediction problems.
 
-## Lab Task 14: Handwritten Alphabet Recognition
+
